@@ -1,8 +1,6 @@
 # waazzaaaaaaaaaaaaaaaaaaah
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=misterSu2g&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
 ## 🔭 What I'm working on right now
 
 - 🏢 **ODOO SH**: customizing modules, building integrations, and taming business workflows
